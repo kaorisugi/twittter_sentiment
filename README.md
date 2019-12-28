@@ -46,8 +46,9 @@
 　　　→取得データから反応ツイートの取得を試みたができなかった<br>
 
 ### 【利用するには】
+・twitter_judgement_model.ipynb　を参照ください。
 ・config.py ファイルにツイッターAPIトークンを記入<br>
 ・インストールが必要なツールは、notebook内にマジックコマンドにて記載してあります<br>
-・import MeCab で詰まる場合は、MeCabバインディングのnatto-pyからimportするとうまくいきそうです。<br>
-（$ pip install natto-pyでインストールした上でfrom natto import MeCab)<br>
+・jupyternotebook上でのMeCab利用で詰まる場合は、下記の自然言語処理環境のDockerイメージを使うとうまくいくと思います。<br>
+https://github.com/hoto17296/docker-japanese-nlp<br>
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
