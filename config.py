@@ -1,5 +1,5 @@
 #ツイッターAPIトークン
-CONSUMER_KEY = 'hhnTqjyXtrkjw3Fuyq4dsXHOt'
-CONSUMER_SECRET = 'hpWuwIfkRfviiKWs0aKCP5MZpjTI88GcZItncosyXHChxqzoBW'
-ACCESS_TOKEN = '91968667-dMpFShROGqL8nJqm4ifLPCDCF8voT64MnBdZGYHgi'
-ACCESS_TOKEN_SECRET = 'gdaOy8EkMhOaBNP1FaivEV22XcNI8SmwGweZcla507YiF'
+CONSUMER_KEY = '***************************'
+CONSUMER_SECRET = '****************************'
+ACCESS_TOKEN = '**************************************'
+ACCESS_TOKEN_SECRET = '***********************************'
