@@ -1,5 +1,7 @@
 # 極性判定とDoc２Vecを使ったTwitterネガポジ予測
 
+## ※実行結果とコードは　twitter_judgement_model.ipynb　にて参照ください
+
 ### 【このnotebookについて】
 2019年7〜10月までフルタイムで通っていたスクールの卒業課題テーマを、機械学習の勉強のために発展させたものです<br>
 卒業発表スライド　https://www.slideshare.net/secret/y0m7g1nZdxpVYP<br>
