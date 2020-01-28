@@ -5,3 +5,6 @@ get_dataset.ipynb
 model.ipynb
 predict.ipynb
 preprocessing.ipynb
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
