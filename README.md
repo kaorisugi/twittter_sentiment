@@ -52,3 +52,12 @@
 ・インストールが必要なツールは、notebook内にマジックコマンドにて記載してあります<br>
 ・jupyternotebook上でのMeCab利用で詰まる場合は、下記の自然言語処理環境のDockerイメージを使うとうまくいくと思います。<br>
 https://github.com/hoto17296/docker-japanese-nlp<br>
+
+
+! pip install --upgrade pip
+! pip install tweepy
+! pip install oseti
+! pip install requests requests_oauthlib
+! pip install sengiri
+! pip install gensim
+! pip install emoji
