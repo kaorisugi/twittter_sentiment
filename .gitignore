@@ -1,1 +1,8 @@
 output/
+config_dami.py
+config.py
+trush/
+get_dataset.ipynb
+model.ipynb
+predict.ipynb
+preprocessing.ipynb
